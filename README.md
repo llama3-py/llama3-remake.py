@@ -1,5 +1,5 @@
-# llama3-model.py
-🚀 llama3 model explain for educational purposes to help understand and experiment with the Llama3 model as described in the Llama3 release.
+# Llama3-remake.py
+🚀 Llama3 remake for educational purposes to help understand and experiment with the Llama3 model as described in the Llama3 release.
 
 ## Structure 
 
@@ -14,7 +14,7 @@
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/llama3-py/llama3-model.py
+   git clone https://github.com/llama3-py/llama3-remake.py
    cd llama3-model.py
    ```
 
@@ -35,3 +35,15 @@
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
 
+## Citation
+
+If you use llama3-remake in your research, please cite the following work:
+
+```bibtex
+@misc{llama3-remake-2024,
+  author = {Aakash Apoorv},
+  title = {llama3-remake.py},
+  year = {2024},
+  howpublished = {\url{https://github.com/llama3-py/llama3-remake.py}},
+}
+```
