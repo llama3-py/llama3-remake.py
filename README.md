@@ -1,4 +1,4 @@
-# Llama3-remake.py
+# Llama3-Remake.py
 🚀 Llama3 remake for educational purposes to help understand and experiment with the Llama3 model as described in the Llama3 release.
 
 <img width="309" alt="llama3_remake" src="https://github.com/llama3-py/llama3-remake.py/assets/5700430/d494ce39-57af-4591-89a1-ec73e81843b2">
@@ -18,7 +18,7 @@
 1. **Clone the Repository**
    ```
    git clone https://github.com/llama3-py/llama3-remake.py
-   cd llama3-model.py
+   cd llama3-remake.py
    ```
 
 2. **Install Dependencies**
